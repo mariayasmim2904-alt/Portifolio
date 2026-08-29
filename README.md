@@ -1,4 +1,4 @@
-# 💜 Olá, eu sou a Yasmim!
+# 👩🏻‍💻 Olá, eu sou a Yasmim!
 
 Estudante de **Análise e Desenvolvimento de Sistemas** (2ª semestre na Uniasselvi) e **Desenvolvedora Full Stack** em constante evolução. Apaixonada por transformar ideias em soluções web funcionais e atraentes, unindo o melhor do Front-End e do Back-End.
 
@@ -48,4 +48,4 @@ Estudante de **Análise e Desenvolvimento de Sistemas** (2ª semestre na Uniasse
 
 * 📧 **E-mail:** maria.yasmim2904@gmail.com
 * 🐙 **GitHub:** [mariayasmim2904-alt](https://github.com/mariayasmim2904-alt)
-* 💼 **LinkedIn:** [Seu Link do LinkedIn aqui](#)
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/maria-yasmim-184b40415?utm_source=share_via&utm_content=profile&utm_medium=member_android
